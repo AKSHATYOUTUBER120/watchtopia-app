@@ -6,11 +6,11 @@ app:
 footer:
   copyright: Made with ❤️ in Europe 🇪🇺 by <a href="https://www.sandoche.com" target="_blank">Sandoche</a>
   links:
-    - title: Github
-      url: https://github.com/sandoche/Mobile-app-landingpage-template
+    - title: Instagram
+      url: https://www.instagram.com/pixel.peak.studio
       target: _blank
-    - title: Donate
-      url: https://paypal.me/kanbanote
+    - title: Email
+      url: mailto:support@watchtopia.site
       target: _blank
     - title: Privacy
       url: /privacy
