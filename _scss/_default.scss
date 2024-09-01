@@ -307,6 +307,9 @@ h1, h2 {
 
   &__section-title {
     font-size: $font-lg;
+    @media (max-width: 768px) {
+      font-size: 22px;
+    }
   }
 
   &__section {
