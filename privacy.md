@@ -1,10 +1,8 @@
 ---
 layout: page
+title: Privacy Policy
 permalink: /privacy/
 ---
-
-<h1>Privacy Policy</h1>
-
 Effective Date: 1st Sept 2024
 
 1. Introduction
