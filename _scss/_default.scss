@@ -196,6 +196,7 @@ h1, h2 {
   &__name {
     font-size: $font-xl;
     margin: 0;
+    font-size: 27px;
   }
 
   &__description {
@@ -203,6 +204,7 @@ h1, h2 {
     @media (max-width: 768px) {
       margin-top: 8px;
       margin-bottom: 0;
+      font-size: 20px;
     }
   }
 
